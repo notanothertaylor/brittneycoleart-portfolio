@@ -1,2 +1,2 @@
-# brittneycoleart-portfolio
-Digital Artist Portfolio
+# Client Projects
+Most recent projects
